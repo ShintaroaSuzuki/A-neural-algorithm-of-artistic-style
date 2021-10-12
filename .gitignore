@@ -1,0 +1,5 @@
+result/
+models/*
+*.jpg
+*.png
+*.gif
