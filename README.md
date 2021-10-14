@@ -6,3 +6,5 @@ TensorFlow を使って、[Leon A. Gatys el at. "Image Style Transfer Using Conv
 
 style_transfer.py は VGG19 を使った通常の画風変換のアルゴリズムで、new_style_transfer.py は VGG16 を使ってクオリティを犠牲に多少高速化したアルゴリズムです。
 style_transfer_square.py は出力を正方形にしただけです。
+
+![result_cat1](https://user-images.githubusercontent.com/50007328/137363419-e527b199-74d4-4e37-a33b-044b1f21abaa.png)
